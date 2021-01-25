@@ -27,8 +27,8 @@ algorithm and present the same to our investors/lenders
 - I have chosen to work with the highest category risk loans so E category loans are subset which leads to a problem with imbalance in the data
 
 ## Modelling approach
-
 - Before doing anything we would like to know what are the important features and in order to do that we need to take a look at the features 
 available to the investors before investing since the dataset contains information which is available post the loan payment as well
 
--Post removing those features and checking feature importance we can visualize the features which are most important 
+- Post removing those features and checking feature importance we can visualize the features which are most important 
+![](images/feature_importance.png)
