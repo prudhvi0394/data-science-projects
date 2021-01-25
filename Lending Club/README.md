@@ -33,4 +33,4 @@ available to the investors before investing since the dataset contains informati
 ![](images/feature_importance.png)
 
 - distribution of loan grades 
-![](loan_grade_dis.png)
+![](images/loan_grade_dis.png)
