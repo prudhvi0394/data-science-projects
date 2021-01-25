@@ -21,7 +21,6 @@ algorithm and present the same to our investors/lenders
   - Good loans: Current,Fully Paid,Grace period as good loans
   - Bad loans: Default,Late(16-30)&(31-120),Charged off
 
-
 - There were some employment statuses which were not available so I have assumed them to be never employed and assigned that to 0
 
 - I have chosen to work with the highest category risk loans so E category loans are subset which leads to a problem with imbalance in the data
@@ -32,3 +31,6 @@ available to the investors before investing since the dataset contains informati
 
 - Post removing those features and checking feature importance we can visualize the features which are most important 
 ![](images/feature_importance.png)
+
+- distribution of loan grades 
+![](images/loan_grades.png)
