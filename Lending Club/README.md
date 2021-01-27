@@ -32,5 +32,8 @@ available to the investors before investing since the dataset contains informati
 - Post removing those features and checking feature importance we can visualize the features which are most important 
 ![](images/feature_importance.png)
 
-- distribution of loan grades 
+- distribution of loan statuses
+![](images/loan_grade_dis.png)
+
+- distribution of loan grades
 ![](images/loan_grade_dis.png)
